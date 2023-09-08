@@ -26,7 +26,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
    - Postman
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+
 
 ### Docente
 
@@ -35,7 +35,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-node/depura-el-codigo-con-node
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG4CByxsrlRKg/learning-public-crop_675_1200/0/1694149952742?e=1694764800&v=beta&t=qGNcQkQDt-gK6FRABBTcKv1KsUC6u5MZ3q5Ym4HRk8k
 
 [1]: # (End of ES-Instruction ###############################################################################################)
