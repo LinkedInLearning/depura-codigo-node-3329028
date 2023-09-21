@@ -36,6 +36,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-node/depura-el-codigo-con-node
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG4CByxsrlRKg/learning-public-crop_675_1200/0/1694149952742?e=1694764800&v=beta&t=qGNcQkQDt-gK6FRABBTcKv1KsUC6u5MZ3q5Ym4HRk8k
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG4CByxsrlRKg/learning-public-crop_675_1200/0/1694149952742?e=1695891600&v=beta&t=1x_1meulcyO7OCm5hbZcPWsDcGlNbjWr5YjIJaJ41gY
 
 [1]: # (End of ES-Instruction ###############################################################################################)
